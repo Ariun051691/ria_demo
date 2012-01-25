@@ -33,4 +33,5 @@ gem 'sqlite3', '1.3.3'
  group :test do
   gem 'rspec-rails', '2.6.1'
   gem 'webrat'
+
  end
